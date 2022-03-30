@@ -1,0 +1,13 @@
+{
+    "editor.tokenColorCustomizations": {
+        "comments": "",
+        "textMateRules": []
+    },
+    "cSpell.words": [
+        "appitem",
+        "cupertino",
+        "lato",
+        "obacity",
+        "showoffset"
+    ]
+}
